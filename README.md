@@ -1,2 +1,3 @@
-# baker_cv_resume
+# David John Baker: CV and Resume 
+
 Source code for current CV and Resume 
